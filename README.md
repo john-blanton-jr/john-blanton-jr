@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me hello@johnblanton.com
 
-See my portfolio here: https://www.johnblanton.com/
 
 <!---
 john-blanton-jr/john-blanton-jr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
