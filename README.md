@@ -55,7 +55,7 @@ When I am not nerding out on the computer, you can find me:
 
 [![Website](https://img.shields.io/badge/Website-www.johnblanton.com-blue)](https://www.johnblanton.com)
 [![Email](https://img.shields.io/badge/Email-hello@johnblanton.com-red)](mailto:hello@johnblanton.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-john-blanton-blue?logo=linkedin)](https://www.linkedin.com/in/john-blanton/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-johnblanton-blue?logo=linkedin)](https://www.linkedin.com/in/john-blanton/)
 
 
 ## 🐍
