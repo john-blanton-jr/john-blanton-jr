@@ -23,7 +23,6 @@ When I am not nerding out on the computer you can find me tending to my garden, 
 - JavaScript ES6+  
 - HTML
 - CSS
-- Git
 - Bootstrap
 - Tailwind
 - DOM manipulation
@@ -33,6 +32,7 @@ When I am not nerding out on the computer you can find me tending to my garden, 
 <td>
 
 #### 🖥️ **Other Technologies I am comfortable With**
+- Git
 - Django 
 - PostgreSQL 
 - MongoDB 
