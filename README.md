@@ -1,5 +1,5 @@
-##John Blanton Jr. 
-# Hello, World! 👋
+# John Blanton Jr. 
+## Hello, World! 👋
 
 I am a Software Engineer specializing in Front-End Development.
 I mainly work in HTML, CSS, JavaScript and React.js. 
@@ -7,7 +7,7 @@ I mainly work in HTML, CSS, JavaScript and React.js.
 
 
 ## 🌟 About Me 
-In my free time, I often start new projects and learn new technologies. The rapid evolution of technology captivates me, and I'm thrilled to be a part of this dynamic landscape
+In my free time, I often start new projects and learn new technologies. The rapid evolution of technology captivates me, and I'm thrilled to be a part of this dynamic landscape.
 
 
 When I am not nerding out on the computer you can find me tending to my garden, exploring trails, fishing, or cherishing moments with my family and our three pups.
@@ -29,11 +29,7 @@ When I am not nerding out on the computer you can find me tending to my garden, 
 - DOM manipulation
 
 </td>
-</tr>
-</table>
 
-<table>
-<tr>
 <td>
 
 #### 🖥️ **Other Technologies I am comfortable With**
@@ -46,6 +42,20 @@ When I am not nerding out on the computer you can find me tending to my garden, 
 </td>
 </tr>
 </table>
+
+## A Few Projects I am Proud of
+<h2><a href="https://github.com/john-blanton-jr/puppy-ipsum">Puppy Ipsum</a></h2>
+A delightful and user-friendly application that generates "Ipsum" text based on the number of paragraphs you choose.
+
+<h2><a href="https://github.com/john-blanton-jr/autotrackr">Autotrackr</a></h2>
+Autotrackr is a comprehensive application designed to manage various facets of an automobile dealership.
+
+<h2><a href="https://github.com/john-blanton-jr/ai-persona-chat">AI Persona Chat</a></h2>
+The Multi-Persona AI Chatbot is a user-friendly platform that allows users to interact with AI through various predefined personas.
+
+<h2><a href="https://github.com/john-blanton-jr/my_tasks">My Tasks</a></h2>
+A simple task app demonstrating CRUD operations and Authentication.
+
 
 ## 📬 Reach Out to Me 
 
