@@ -21,7 +21,7 @@ When I am not nerding out on the computer you can find me tending to my garden, 
 #### 🛠️ **Frontend Technologies** 
 - ReactJS
 - JavaScript ES6+  
-- HTML5 
+- HTML
 - CSS
 - Git
 - Bootstrap
