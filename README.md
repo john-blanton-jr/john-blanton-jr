@@ -2,7 +2,7 @@
 ## Hello, World! 👋
 
 I am a Software Engineer specializing in Front-End Development.
-I mainly work in HTML, CSS, JavaScript and React.js. 
+I mainly work in HTML, CSS, JavaScript and ReactJS. 
 
 
 
