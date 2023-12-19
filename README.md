@@ -1,15 +1,16 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+J9z5hOz3F5gO5f5xDzvzv6wC6CU5irxKkL7Ag5RM5BqO5Bl" crossorigin="anonymous">
-
+##John Blanton Jr. 
 # Hello, World! 👋
 
-<i class="fa-solid fa-code"></i>
+I am a Software Engineer specializing in Front-End Development.
+I mainly work in HTML, CSS, JavaScript and React.js. 
+
+
 
 ## 🌟 About Me 
-When I am not nerding out on the computer, you can find me:
-- 🌱 Tending to my garden 
-- 🏞 Exploring trails 
-- 🎣 Fishing 
-- 🐶 Cherishing moments with my family and our three pups 
+In my free time, I often start new projects and learn new technologies. The rapid evolution of technology captivates me, and I'm thrilled to be a part of this dynamic landscape
+
+
+When I am not nerding out on the computer you can find me tending to my garden, exploring trails, fishing, or cherishing moments with my family and our three pups.
 
 ## 💻 Technical Skills 
 
@@ -17,36 +18,30 @@ When I am not nerding out on the computer, you can find me:
 <tr>
 <td>
 
-#### 🛠️ **Programming Languages**
-- Python 3 
-- JavaScript ES6+ 
-- SQL 
+#### 🛠️ **Frontend Technologies** 
+- ReactJS
+- JavaScript ES6+  
 - HTML5 
-- CSS 
-
-#### 🏗️ **System Design**
-- Monoliths 
-- Microservices 
-- Domain-driven design 
-- Message passing 
-- Event sourcing 
+- CSS
+- Git
+- Bootstrap
+- Tailwind
+- DOM manipulation
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td>
 
-#### 🖥️ **Back-End Technologies**
-- Django 4 
+#### 🖥️ **Other Technologies I am comfortable With**
+- Django 
 - PostgreSQL 
 - MongoDB 
 - Fast API 
 - RabbitMQ 
-
-#### 🌐 **Front-End Technologies**
-- DOM manipulation 
-- Websockets 
-- React 
-- React Hooks 
-- Redux Toolkit 
 
 </td>
 </tr>
