@@ -1,6 +1,8 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+J9z5hOz3F5gO5f5xDzvzv6wC6CU5irxKkL7Ag5RM5BqO5Bl" crossorigin="anonymous">
+
 # Hello, World! 👋
 
-I'm a **Software Engineer** who is deeply passionate about writing clean code and tackling complex problems. The rapid evolution of technology captivates me, and I'm thrilled to be a part of this dynamic landscape.
+<i class="fa-solid fa-code"></i>
 
 ## 🌟 About Me 
 When I am not nerding out on the computer, you can find me:
