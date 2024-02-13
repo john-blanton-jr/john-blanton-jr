@@ -29,7 +29,6 @@ When I am not nerding out on the computer you can find me tending to my garden, 
 </td>
 
 <td>
-
 #### 🖥️ **Backend technologies**
 - Python
 - Django 
@@ -40,7 +39,6 @@ When I am not nerding out on the computer you can find me tending to my garden, 
 
 </td>
 <td>
-
 #### 🖥️ **Other Technologies I am comfortable With**
 - Docker
 - Git
