@@ -1,8 +1,7 @@
 # John Blanton Jr. 
 ## Hello, World! 👋
 
-I am a Software Engineer specializing in Front-End Development.
-I mainly work in HTML, CSS, JavaScript and ReactJS. 
+I am a Software Engineer. 
 
 
 
@@ -31,14 +30,22 @@ When I am not nerding out on the computer you can find me tending to my garden, 
 
 <td>
 
-#### 🖥️ **Other Technologies I am comfortable With**
+#### 🖥️ **Backend technologies**
 - Python
-- Git
 - Django 
 - PostgreSQL 
 - MongoDB 
-- Fast API 
-- RabbitMQ 
+- Fast API
+- Flask
+
+</td>
+<td>
+
+#### 🖥️ **Other Technologies I am comfortable With**
+- Docker
+- Git
+- RabbitMQ
+- OpenAi
 
 </td>
 </tr>
