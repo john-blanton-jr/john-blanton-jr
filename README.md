@@ -55,7 +55,7 @@ When I am not nerding out on the computer you can find me tending to my garden, 
 <h2><a href="https://github.com/john-blanton-jr/puppy-ipsum">Puppy Ipsum</a></h2>
 A delightful and user-friendly application that generates "Ipsum" text based on the number of paragraphs you choose.
 
-<h2><a href="[https://github.com/john-blanton-jr/autotrackr](https://github.com/john-blanton-jr/Johnny-Bs-CLI-Journal)">Johnny B's CLI Journal</a></h2>
+<h2><a href="https://github.com/john-blanton-jr/Johnny-Bs-CLI-Journal">Johnny B's CLI Journal</a></h2>
 An easy to use CLI journal with no distractions.  Creates its own sqlite db. 
 
 <h2><a href="https://github.com/john-blanton-jr/ai-persona-chat">AI Persona Chat</a></h2>
